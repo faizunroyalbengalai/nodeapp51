@@ -1,0 +1,10 @@
+{
+  "name": "nodeapp51",
+  "version": "1.0.0",
+  "description": "nodeapp51 Node.js application",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {}
+}
